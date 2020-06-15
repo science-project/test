@@ -7,6 +7,7 @@ val_2 = input('input second number: ')
 value_sum = sum(int(val_1), int(val_2))
 print("")
 
+print("revised3")
 print("revised2")
 print("revised")
 print(value_sum)
